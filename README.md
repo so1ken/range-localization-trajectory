@@ -13,13 +13,13 @@
 repo/
 │
 ├─ localization/
-│ └─ multilateration_lls.py # реализация LLS для локализации по расстояниям
+│ └─ LLS_Task_1.py # реализация LLS для локализации по расстояниям
 │
 ├─ trajectory/
-│ └─ pose_graph_optimization.py # PGO: генерация траектории, шум, оптимизация и визуализация
+│ └─ PGO_Task_2.py # PGO: генерация траектории, шум, оптимизация и визуализация
 │
 ├─ requirements.txt # зависимости
-└─ README.md # этот файл
+README.md # этот файл
 ```
 
 ---
